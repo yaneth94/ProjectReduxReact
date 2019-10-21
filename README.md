@@ -17,3 +17,9 @@ Application made with Firebase, Redux, Class Component and Functional Component 
 
 ![alt text](https://github.com/yaneth94/ProjectReduxReact/blob/master/prestamo-libros.png) 
 
+## :books: 2-Book Sale project :green_book:
+
+Application of a CRUD book sale with React Hooks and json-server
+* Project name: crud-redux-react
+
+
