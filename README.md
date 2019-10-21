@@ -22,4 +22,5 @@ Application made with Firebase, Redux, Class Component and Functional Component 
 Application of a CRUD book sale with React Hooks and json-server
 * Project name: crud-redux-react
 
+![alt text](https://github.com/yaneth94/ProjectReduxReact/blob/master/crud-libros.jpg) 
 
